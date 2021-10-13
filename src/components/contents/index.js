@@ -6,6 +6,7 @@ import Deceased from './summary/deceased'
 import Recovered from './summary/recovered'
 import Tested from './summary/tested'
 import Vaccine from './summary/vaccine'
+import SummaryMonth from './summary_month'
 
 
 const Content = () => {
@@ -13,7 +14,7 @@ const Content = () => {
         <div className="container" style={{marginTop:"12px"}}>
             <div className="columns is-desktop">
                 <div className="column is-8">
-                    <div className="columns">
+                    <div className="columns is-desktop">
                         <div className="column is-2"><Confirmed/></div>
                         <div className="column is-2"><Active/></div>
                         <div className="column is-2"><Recovered/></div>
@@ -27,7 +28,7 @@ const Content = () => {
                     </div>
                 </div>
 
-                <div className="column is-4">2</div>
+                <div className="column is-4"><SummaryMonth/></div>
             </div>
 
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { LineChart, Line, ResponsiveContainer } from 'recharts';
 
 const data = [
     {
@@ -58,7 +58,7 @@ const Confirmed = () => {
                         <p>1.000</p>
                         <ResponsiveContainer width="100%" height={50}>
                             <LineChart width={300} height={100} data={data}>
-                                <Line type="monotone" dataKey="uv" stroke="#8884d8" strokeWidth={2} dot={false} />
+                                <Line type="monotone" dataKey="uv" stroke="#B22222" strokeWidth={2} dot={false} />
                             </LineChart>
                         </ResponsiveContainer>
                     </div>

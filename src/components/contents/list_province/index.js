@@ -3,7 +3,7 @@ import React from 'react'
 const ListProvince = () => {
     return (
         <div>
-            <div className="card" style={{ textAlign: 'center', padding: '0px' }}>
+            <div className="card" style={{ textAlign: 'center', padding: '0px', overflow:'auto' }}>
                 <div className="card-content">
                     <div className="content">
                         <table className="table">
