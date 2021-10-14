@@ -1,0 +1,629 @@
+{
+    "covid_province": [
+      {
+        "id": "1",
+        "province_name": "Savannakhet",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "2",
+        "province_name": "Attapeu",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "3",
+        "province_name": "Bokeo",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "4",
+        "province_name": "Bolikhamxai",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "5",
+        "province_name": "Champasak",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "6",
+        "province_name": "Houaphanh",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "7",
+        "province_name": "Khammouane",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "8",
+        "province_name": "Luang Namtha",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "9",
+        "province_name": "Luang Prabang",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "10",
+        "province_name": "Oudomxay",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "11",
+        "province_name": "Phongsaly",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "12",
+        "province_name": "Salavan",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "13",
+        "province_name": "Vientiane",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "14",
+        "province_name": "Vientiane Prefecture",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "15",
+        "province_name": "Sainyabuli",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "16",
+        "province_name": "Sekong",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "17",
+        "province_name": "Xaisomboun",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      },
+      {
+        "id": "18",
+        "province_name": "Xiangkhouang",
+        "confirmed": "1,324,561",
+        "active": "220,213",
+        "recovered": "874,871",
+        "deceased": "150",
+        "tested": "2,574,871",
+        "vaccine_dose": "500,000"
+      }
+    ],
+
+    "confirmed": [
+        {
+          "id": "1",
+          "province_name": "confirmed",
+          "new": "8,324,561",
+          "old": "5,000,000",
+          "graph": [
+            {
+            "date": "01/01/2021",
+            "confirmed": "561"
+            },
+            {
+            "date": "02/01/2021",
+            "confirmed": "434"
+            },
+            {
+            "date": "03/01/2021",
+            "confirmed": "237"
+            },
+            {
+            "date": "04/01/2021",
+            "confirmed": "789"
+            },
+            {
+            "date": "05/01/2021",
+            "confirmed": "134"
+            },
+            {
+            "date": "06/01/2021",
+            "confirmed": "561"
+            },
+            {
+            "date": "07/01/2021",
+            "confirmed": "963"
+            },
+            {
+            "date": "08/01/2021",
+            "confirmed": "356"
+            },
+            {
+            "date": "09/01/2021",
+            "confirmed": "561"
+            },
+            {
+            "date": "10/01/2021",
+            "confirmed": "863"
+            },
+            {
+            "date": "11/01/2021",
+            "confirmed": "231"
+            },
+            {
+            "date": "12/01/2021",
+            "confirmed": "676"
+            },
+            {
+            "date": "13/01/2021",
+            "confirmed": "952"
+            },
+            {
+            "date": "14/01/2021",
+            "confirmed": "132"
+            },
+            {
+            "date": "15/01/2021",
+            "confirmed": "54"
+            },
+            {
+            "date": "16/01/2021",
+            "confirmed": "75"
+            }
+          ]
+        }
+    ],
+    "Active": [
+        {
+            "id": "2",
+            "province_name": "Active",
+            "new": "4,456,456",
+            "old": "2,864,545",
+            "graph": [
+                {
+                "date": "01/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "02/01/2021",
+                "confirmed": "434"
+                },
+                {
+                "date": "03/01/2021",
+                "confirmed": "237"
+                },
+                {
+                "date": "04/01/2021",
+                "confirmed": "789"
+                },
+                {
+                "date": "05/01/2021",
+                "confirmed": "134"
+                },
+                {
+                "date": "06/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "07/01/2021",
+                "confirmed": "963"
+                },
+                {
+                "date": "08/01/2021",
+                "confirmed": "356"
+                },
+                {
+                "date": "09/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "10/01/2021",
+                "confirmed": "863"
+                },
+                {
+                "date": "11/01/2021",
+                "confirmed": "231"
+                },
+                {
+                "date": "12/01/2021",
+                "confirmed": "676"
+                },
+                {
+                "date": "13/01/2021",
+                "confirmed": "952"
+                },
+                {
+                "date": "14/01/2021",
+                "confirmed": "132"
+                },
+                {
+                "date": "15/01/2021",
+                "confirmed": "54"
+                },
+                {
+                "date": "16/01/2021",
+                "confirmed": "75"
+                }
+              ]
+          }
+        ],
+        "Recovered": [
+          {
+            "id": "3",
+            "province_name": "Recovered",
+            "new": "8,324,561",
+            "old": "5,000,000",
+            "graph": [
+                {
+                "date": "01/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "02/01/2021",
+                "confirmed": "434"
+                },
+                {
+                "date": "03/01/2021",
+                "confirmed": "237"
+                },
+                {
+                "date": "04/01/2021",
+                "confirmed": "789"
+                },
+                {
+                "date": "05/01/2021",
+                "confirmed": "134"
+                },
+                {
+                "date": "06/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "07/01/2021",
+                "confirmed": "963"
+                },
+                {
+                "date": "08/01/2021",
+                "confirmed": "356"
+                },
+                {
+                "date": "09/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "10/01/2021",
+                "confirmed": "863"
+                },
+                {
+                "date": "11/01/2021",
+                "confirmed": "231"
+                },
+                {
+                "date": "12/01/2021",
+                "confirmed": "676"
+                },
+                {
+                "date": "13/01/2021",
+                "confirmed": "952"
+                },
+                {
+                "date": "14/01/2021",
+                "confirmed": "132"
+                },
+                {
+                "date": "15/01/2021",
+                "confirmed": "54"
+                },
+                {
+                "date": "16/01/2021",
+                "confirmed": "75"
+                }
+              ]
+          }
+        ],
+        "deceased": [
+          {
+            "id": "4",
+            "province_name": "deceased",
+            "new": "8,324,561",
+            "old": "5,000,000",
+            "graph": [
+                {
+                "date": "01/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "02/01/2021",
+                "confirmed": "434"
+                },
+                {
+                "date": "03/01/2021",
+                "confirmed": "237"
+                },
+                {
+                "date": "04/01/2021",
+                "confirmed": "789"
+                },
+                {
+                "date": "05/01/2021",
+                "confirmed": "134"
+                },
+                {
+                "date": "06/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "07/01/2021",
+                "confirmed": "963"
+                },
+                {
+                "date": "08/01/2021",
+                "confirmed": "356"
+                },
+                {
+                "date": "09/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "10/01/2021",
+                "confirmed": "863"
+                },
+                {
+                "date": "11/01/2021",
+                "confirmed": "231"
+                },
+                {
+                "date": "12/01/2021",
+                "confirmed": "676"
+                },
+                {
+                "date": "13/01/2021",
+                "confirmed": "952"
+                },
+                {
+                "date": "14/01/2021",
+                "confirmed": "132"
+                },
+                {
+                "date": "15/01/2021",
+                "confirmed": "54"
+                },
+                {
+                "date": "16/01/2021",
+                "confirmed": "75"
+                }
+              ]
+          }
+        ],
+        "tested": [
+          {
+            "id": "5",
+            "province_name": "tested",
+            "new": "8,324,561",
+            "old": "5,000,000",
+            "graph": [
+                {
+                "date": "01/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "02/01/2021",
+                "confirmed": "434"
+                },
+                {
+                "date": "03/01/2021",
+                "confirmed": "237"
+                },
+                {
+                "date": "04/01/2021",
+                "confirmed": "789"
+                },
+                {
+                "date": "05/01/2021",
+                "confirmed": "134"
+                },
+                {
+                "date": "06/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "07/01/2021",
+                "confirmed": "963"
+                },
+                {
+                "date": "08/01/2021",
+                "confirmed": "356"
+                },
+                {
+                "date": "09/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "10/01/2021",
+                "confirmed": "863"
+                },
+                {
+                "date": "11/01/2021",
+                "confirmed": "231"
+                },
+                {
+                "date": "12/01/2021",
+                "confirmed": "676"
+                },
+                {
+                "date": "13/01/2021",
+                "confirmed": "952"
+                },
+                {
+                "date": "14/01/2021",
+                "confirmed": "132"
+                },
+                {
+                "date": "15/01/2021",
+                "confirmed": "54"
+                },
+                {
+                "date": "16/01/2021",
+                "confirmed": "75"
+                }
+              ]
+          }
+        ],
+        "vaccine_dose_administration": [
+          {
+            "id": "6",
+            "province_name": "vaccine dose administration",
+            "new": "8,324,561",
+            "old": "5,000,000",
+            "graph": [
+                {
+                "date": "01/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "02/01/2021",
+                "confirmed": "434"
+                },
+                {
+                "date": "03/01/2021",
+                "confirmed": "237"
+                },
+                {
+                "date": "04/01/2021",
+                "confirmed": "789"
+                },
+                {
+                "date": "05/01/2021",
+                "confirmed": "134"
+                },
+                {
+                "date": "06/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "07/01/2021",
+                "confirmed": "963"
+                },
+                {
+                "date": "08/01/2021",
+                "confirmed": "356"
+                },
+                {
+                "date": "09/01/2021",
+                "confirmed": "561"
+                },
+                {
+                "date": "10/01/2021",
+                "confirmed": "863"
+                },
+                {
+                "date": "11/01/2021",
+                "confirmed": "231"
+                },
+                {
+                "date": "12/01/2021",
+                "confirmed": "676"
+                },
+                {
+                "date": "13/01/2021",
+                "confirmed": "952"
+                },
+                {
+                "date": "14/01/2021",
+                "confirmed": "132"
+                },
+                {
+                "date": "15/01/2021",
+                "confirmed": "54"
+                },
+                {
+                "date": "16/01/2021",
+                "confirmed": "75"
+                }
+              ]
+          }
+        ]
+}
